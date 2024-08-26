@@ -4,6 +4,7 @@ Welcome to "Phishing Awareness Training!
 In this essential cybersecurity training session, we dive into the world of phishing attacks and arm you with the knowledge to stay safe online. Discover the different types of phishing threats, including deceptive email phishing, targeted spear phishing, high-profile whaling scams, sneaky clone phishing, and even vishing attacks that come through your phone.
 
 What You’ll Learn:
+
 •Identify Phishing Tactics: Learn how to spot fraudulent emails and misleading websites.
 •Understand Social Engineering: Explore the tricks used to manipulate individuals into revealing sensitive information.
 •Real-World Examples: See how major phishing attacks have impacted organizations and individuals.
